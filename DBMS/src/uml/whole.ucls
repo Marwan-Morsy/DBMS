@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.11" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="classes.SqlParser.Create.Table" project="DBMS" 
+    file="/DBMS/src/classes/SqlParser/Create/Table.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="210" x="1343" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="false" static="false"/>      
+      <operations public="true" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="classes.SqlParser.Delete.DeleteWithWhere" project="DBMS" 
+    file="/DBMS/src/classes/SqlParser/Delete/DeleteWithWhere.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="208" x="2817" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="false" static="false"/>      
+      <operations public="true" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="classes.SqlParser.Select.SelectColumnsWithWhere" project="DBMS" 
+    file="/DBMS/src/classes/SqlParser/Select/SelectColumnsWithWhere.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="236" x="3313" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="false" static="false"/>      
+      <operations public="true" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="classes.SqlParser.Update.UpdateWithWhere" project="DBMS" 
+    file="/DBMS/src/classes/SqlParser/Update/UpdateWithWhere.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="212" x="839" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="false" static="false"/>      
+      <operations public="true" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="classes.SqlParser.Alter.Alter" project="DBMS" 
+    file="/DBMS/src/classes/SqlParser/Alter/Alter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="200" x="599" y="196"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="false" static="false"/>      
+      <operations public="true" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="classes.SqlParser.Select.SelectAllWithoutWhere" project="DBMS" 
+    file="/DBMS/src/classes/SqlParser/Select/SelectAllWithoutWhere.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="208" x="3589" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="false" static="false"/>      
+      <operations public="true" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="classes.SqlParser.Update.Update" project="DBMS" 
+    file="/DBMS/src/classes/SqlParser/Update/Update.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="211" x="1091" y="196"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="false" static="false"/>      
+      <operations public="true" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="classes.SqlParser.Select.SelectDistinct" project="DBMS" 
+    file="/DBMS/src/classes/SqlParser/Select/SelectDistinct.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="208" x="3837" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="false" static="false"/>      
+      <operations public="true" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="classes.SqlParser.Select.SelectAllWithWhere" project="DBMS" 
+    file="/DBMS/src/classes/SqlParser/Select/SelectAllWithWhere.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="208" x="4085" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="false" static="false"/>      
+      <operations public="true" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="classes.SqlParser.Statements" project="DBMS" 
+    file="/DBMS/src/classes/SqlParser/Statements.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="106" x="2026" y="57"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="false" static="false"/>      
+      <operations public="true" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="classes.SqlParser.Alter.AddColumn" project="DBMS" 
+    file="/DBMS/src/classes/SqlParser/Alter/AddColumn.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="200" x="359" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="false" static="false"/>      
+      <operations public="true" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="classes.SqlParser.Create.Create" project="DBMS" 
+    file="/DBMS/src/classes/SqlParser/Create/Create.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="209" x="1593" y="196"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="false" static="false"/>      
+      <operations public="true" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="classes.SqlParser.Insert.InsertAll" project="DBMS" 
+    file="/DBMS/src/classes/SqlParser/Insert/InsertAll.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="206" x="1843" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="false" static="false"/>      
+      <operations public="true" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="classes.SqlParser.Drop.DataBase" project="DBMS" 
+    file="/DBMS/src/classes/SqlParser/Drop/DataBase.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="201" x="2335" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="false" static="false"/>      
+      <operations public="true" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="classes.SqlParser.Insert.Insert" project="DBMS" 
+    file="/DBMS/src/classes/SqlParser/Insert/Insert.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="206" x="2026" y="196"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="false" static="false"/>      
+      <operations public="true" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="classes.SqlParser.Drop.Drop" project="DBMS" 
+    file="/DBMS/src/classes/SqlParser/Drop/Drop.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="200" x="2335" y="196"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="false" static="false"/>      
+      <operations public="true" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="classes.SqlParser.Drop.Table" project="DBMS" 
+    file="/DBMS/src/classes/SqlParser/Drop/Table.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="201" x="2576" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="false" static="false"/>      
+      <operations public="true" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="classes.SqlParser.Alter.DropColumn" project="DBMS" 
+    file="/DBMS/src/classes/SqlParser/Alter/DropColumn.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="200" x="599" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="false" static="false"/>      
+      <operations public="true" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="classes.SqlParser.Insert.InsertRow" project="DBMS" 
+    file="/DBMS/src/classes/SqlParser/Insert/InsertRow.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="206" x="2089" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="false" static="false"/>      
+      <operations public="true" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="classes.SqlParser.Update.UpdateAll" project="DBMS" 
+    file="/DBMS/src/classes/SqlParser/Update/UpdateAll.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="212" x="1091" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="false" static="false"/>      
+      <operations public="true" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <package id="21" language="java" name="uml" project="DBMS" file="/DBMS/src/uml" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="50" width="101" x="1122" y="57"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="22" language="java" name="classes.SqlParser.Delete.Delete" project="DBMS" 
+    file="/DBMS/src/classes/SqlParser/Delete/Delete.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="208" x="2817" y="196"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="false" static="false"/>      
+      <operations public="true" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="classes.SqlParser.Select.SelectColumnsWithoutWhere" project="DBMS" 
+    file="/DBMS/src/classes/SqlParser/Select/SelectColumnsWithoutWhere.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="236" x="4333" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="false" static="false"/>      
+      <operations public="true" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="classes.SqlParser.Select.SelectDistinctWithWhere" project="DBMS" 
+    file="/DBMS/src/classes/SqlParser/Select/SelectDistinctWithWhere.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="208" x="4609" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="false" static="false"/>      
+      <operations public="true" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="classes.SqlParser.Create.DataBase" project="DBMS" 
+    file="/DBMS/src/classes/SqlParser/Create/DataBase.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="210" x="1593" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="false" static="false"/>      
+      <operations public="true" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="classes.SqlParser.Delete.DeleteAll" project="DBMS" 
+    file="/DBMS/src/classes/SqlParser/Delete/DeleteAll.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="208" x="3065" y="371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="false" static="false"/>      
+      <operations public="true" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="classes.SqlParser.Select.Select" project="DBMS" 
+    file="/DBMS/src/classes/SqlParser/Select/Select.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="208" x="3837" y="196"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="false" protected="false" private="false" static="false"/>      
+      <operations public="true" package="false" protected="false" private="false" static="false"/>    
+    </display>  
+  </class>  
+  <generalization id="28">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="27"/>  
+  </generalization>  
+  <generalization id="29">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="30">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <generalization id="31">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <generalization id="32">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="33">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="27"/>  
+  </generalization>  
+  <generalization id="34">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <generalization id="35">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <generalization id="36">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <generalization id="37">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="27"/>  
+  </generalization>  
+  <generalization id="38">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="22"/>  
+  </generalization>  
+  <generalization id="39">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="40">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <generalization id="41">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <generalization id="42">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <generalization id="43">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <generalization id="44">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="27"/>  
+  </generalization>  
+  <generalization id="45">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="46">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="27"/>  
+  </generalization>  
+  <generalization id="47">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="22"/>  
+  </generalization>  
+  <generalization id="48">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="27"/>  
+  </generalization>  
+  <generalization id="49">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <generalization id="50">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <generalization id="51">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="12"/>  
+  </generalization>  
+  <generalization id="52">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="false" protected="false" private="false" static="false"/>    
+    <operations public="true" package="false" protected="false" private="false" static="false"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

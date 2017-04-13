@@ -1,0 +1,5 @@
+[DEBUG] 2016-12-15 15:37:27.665 [main] Log4J2PropertiesConf - This is a debug message
+[INFO ] 2016-12-15 15:37:27.670 [main] Log4J2PropertiesConf - This is an info message
+[WARN ] 2016-12-15 15:37:27.671 [main] Log4J2PropertiesConf - This is a warn message
+[ERROR] 2016-12-15 15:37:27.671 [main] Log4J2PropertiesConf - This is an error message
+[FATAL] 2016-12-15 15:37:27.671 [main] Log4J2PropertiesConf - This is a fatal message
